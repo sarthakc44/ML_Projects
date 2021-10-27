@@ -1,2 +1,2 @@
-# Independent_Projects
+# Independent Projects
 Independent Projects
