@@ -17,4 +17,6 @@ Rank: 41/687
 
 F1 score: 0.715072
 
+Approach: Survival Analysis
+
 [Highest score in job-a-thon: 0.75059]
